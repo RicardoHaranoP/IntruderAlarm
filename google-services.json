@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583695191568",
+    "firebase_url": "https://alarme-8672a-default-rtdb.firebaseio.com",
+    "project_id": "alarme-8672a",
+    "storage_bucket": "alarme-8672a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583695191568:android:d5a390187c8d77f3d08495",
+        "android_client_info": {
+          "package_name": "com.intruderAlertAndroid.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583695191568-4ef789dh3uhp04v1bnroe4f79iv9u3ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Vlcl9ZwgtFwn1Ojlu7Nac5-3XLyEvbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583695191568-4ef789dh3uhp04v1bnroe4f79iv9u3ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583695191568-0mogk0t1o0a7celvnk57lbm1tmm37h59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intruderAlertAndroid.teste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
