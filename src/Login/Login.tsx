@@ -49,7 +49,7 @@ export const Login = () => {
       <SafeAreaView style={styles.contentView}>
         <View style={styles.container}>
           <View style={styles.titleContainer}>
-            <Text style={styles.titleText}>Walk Hero</Text>
+            <Text style={styles.titleText}>Intruder Alert</Text>
           </View>
           <View style={styles.mainContent}>
             <TextInput
@@ -78,7 +78,7 @@ export const Login = () => {
       </SafeAreaView>
     </Pressable>
   );
-};
+};//
 
 const styles = StyleSheet.create({
   contentView: {

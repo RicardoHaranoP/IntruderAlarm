@@ -1,4 +1,5 @@
 export interface FeedWorkout {
   date: string;
-  valor: boolean;
+  ativa: boolean;
+  aciona: boolean;
 }
