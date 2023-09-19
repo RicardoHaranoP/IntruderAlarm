@@ -1,5 +1,5 @@
 # IntruderAlarm
-Projeto feito em conjunto com Gabriel Julek com o intuito de fazer um sistema de alarme simples
+Projeto feito em conjunto com Gabriel Julek (https://github.com/juleklazura) e Fernando Sobutka (https://github.com/Sobutka) com o intuito de fazer um sistema de alarme simples
 
 no terminal do diretorio digite npm install
 abra o androidStudio com a Virtual Machine desejada
